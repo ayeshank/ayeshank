@@ -9,8 +9,8 @@
   <a href="your-youtube-URL">
    <img src="https://img.icons8.com/nolan/64/facebook.png"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://stackoverflow.com/users/13151335/beren">
+<img src="https://img.icons8.com/color-glass/48/000000/stackoverflow.png"/>
   </a>
 </div>
 
