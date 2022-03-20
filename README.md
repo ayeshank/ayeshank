@@ -18,8 +18,8 @@
 <div id="header" align="center">
 <a href="http://portfolioank.surge.sh" target="_blank"> 
 <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry-1.png"
- width="100" height="100"/><br/>
- <a href="http://portfolioank.surge.sh" target="_blank"><img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjNUJDRkMzIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/VmlldyBNeSBQb3J0Zm9saW8/esquadro.png" alt="Cool fonts"></a>
+ /><br/>
+<a href="http://portfolioank.surge.sh" target="_blank"><img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/VmlldyBteSBQb3J0Zm9saW8/enougha.png" alt="Sans Serif fonts"></a>
  </a>
 </div>
 
