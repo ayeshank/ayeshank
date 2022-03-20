@@ -74,6 +74,26 @@
  <img src="https://img.icons8.com/fluency/48/000000/microsoft-dynamics-365.png"/>
  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
  </div>
+ 
+<!-- Currently Learning  -->
+ <br/><br/>
+ <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/Q3VycmVudGx5IExlYXJuaW5nOg/esquadro.png" alt="Cool fonts">
+<div id="badges"  align="center">
+ <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+ <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+ <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+ <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+</div>
+
+<!-- Interest  -->
+ <br/><br/>
+<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SW50ZXJlc3RzOg/esquadro.png" alt="Cool fonts">
+<div id="badges"  align="center">
+ <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+ <img src="https://img.icons8.com/color/48/000000/dart.png"/>
+</div>
+
 <!--
 **ayeshank/ayeshank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
