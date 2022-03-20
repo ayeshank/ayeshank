@@ -47,9 +47,19 @@
  <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
- <img src="https://img.icons8.com/nolan/64/react-native.png"/>
 </div>
 
+
+<!-- Libraries and Frameworks -->
+<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGlicmFyaWVzIGFuZCBGcmFtZXdvcmtzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
+<div id="badges"  align="center">
+  <img src="https://img.icons8.com/nolan/64/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+ <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+ <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+ <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+ <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</div>
 <!--
 **ayeshank/ayeshank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
