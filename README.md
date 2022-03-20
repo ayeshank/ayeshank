@@ -1,7 +1,6 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
-  <img width="50px" src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry-1.png"/>
-</div>
+<img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/512/1FB141/icons8-new-logo.png"/></div>
 <div id="badges"  align="center">
   <a href="www.linkedin.com/in/ayeshanoorkhan">
     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
