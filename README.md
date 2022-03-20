@@ -95,7 +95,7 @@
  <br/><br/>
 
 <div id="badges"  align="center">
- <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SW50ZXJlc3RzOg/esquadro.png" alt="Cool fonts">
+<img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/SW50ZXJlc3Rz/enougha.png" alt="Sans Serif fonts">
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
  <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 </div>
