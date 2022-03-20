@@ -22,8 +22,9 @@
 <br/><br/>
 
 <!-- Connect WIth me -->
-<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/R2V0IENvbm5lY3RlZCBXaXRoIG1lIEJ5Og/esquadro.png" alt="Cool fonts">
+
 <div id="badges"  align="center">
+ <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/R2V0IENvbm5lY3RlZCBXaXRoIG1lIEJ5Og/esquadro.png" alt="Cool fonts">
   <a href="www.linkedin.com/in/ayeshanoorkhan">
     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
   </a>
@@ -40,8 +41,9 @@
 
 <!-- Languages Working On -->
 <br/><br/>
-<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGFuZ3VhZ2VzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
+
 <div id="badges"  align="center">
+ <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGFuZ3VhZ2VzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
  <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -52,8 +54,9 @@
 
 <br/><br/>
 <!-- Libraries and Frameworks -->
-<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGlicmFyaWVzIGFuZCBGcmFtZXdvcmtzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
+
 <div id="badges"  align="center">
+ <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGlicmFyaWVzIGFuZCBGcmFtZXdvcmtzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
   <img src="https://img.icons8.com/nolan/64/react-native.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
@@ -64,8 +67,9 @@
 
 
 <br/><br/>
-<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/VG9vbHMgYW5kIFBsYXRmb3JtcyBXb3JraW5nIE9uOg/esquadro.png" alt="Cool fonts">
+
 <div id="badges"  align="center">
+ <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/VG9vbHMgYW5kIFBsYXRmb3JtcyBXb3JraW5nIE9uOg/esquadro.png" alt="Cool fonts">
  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
@@ -77,8 +81,9 @@
  
 <!-- Currently Learning  -->
  <br/><br/>
- <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/Q3VycmVudGx5IExlYXJuaW5nOg/esquadro.png" alt="Cool fonts">
+
 <div id="badges"  align="center">
+  <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/Q3VycmVudGx5IExlYXJuaW5nOg/esquadro.png" alt="Cool fonts">
  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
@@ -88,8 +93,9 @@
 
 <!-- Interest  -->
  <br/><br/>
-<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SW50ZXJlc3RzOg/esquadro.png" alt="Cool fonts">
+
 <div id="badges"  align="center">
+ <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SW50ZXJlc3RzOg/esquadro.png" alt="Cool fonts">
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
  <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 </div>
