@@ -12,7 +12,6 @@
  
  
 </div>
-<br/><br/>
 
 <!-- Portfolio  -->
 <div id="header" align="center">
@@ -23,7 +22,6 @@
  </a>
 </div>
 <hr>
-<br/><br/>
 &nbsp;
 <!-- Connect WIth me -->
 
@@ -44,7 +42,6 @@
 </div>
 <hr>
 <!-- Languages Working On -->
-<br/><br/>
 &nbsp;
 <div id="badges"  align="center">
 <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/UHJvZ3JhbW1pbmcgTGFuZ3VhZ2Vz/enougha.png" alt="Sans Serif fonts"><br/>
@@ -56,7 +53,6 @@
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </div>
 <hr>
-<br/><br/>
 <!-- Libraries and Frameworks -->
 &nbsp;
 <div id="badges"  align="center">
@@ -70,7 +66,6 @@
 </div>
 <hr>
 
-<br/><br/>
 <!-- Tools and Platforms  -->
 &nbsp;
 <div id="badges"  align="center">
@@ -85,7 +80,6 @@
  </div>
  <hr>
 <!-- Currently Learning  -->
- <br/><br/>
 &nbsp;
 <div id="badges"  align="center">
  <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/TGVhcm5pbmc/enougha.png" alt="Sans Serif fonts"><br/>
@@ -97,7 +91,6 @@
 </div>
 <hr>
 <!-- Interest  -->
- <br/><br/>
 &nbsp;
 <div id="badges"  align="center">
 <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/SW50ZXJlc3Rz/enougha.png" alt="Sans Serif fonts"><br/>
