@@ -24,7 +24,7 @@
 </div>
 
 <br/><br/>
-
+&nbsp;
 <!-- Connect WIth me -->
 
 <div id="badges"  align="center">
@@ -45,7 +45,7 @@
 
 <!-- Languages Working On -->
 <br/><br/>
-
+&nbsp;
 <div id="badges"  align="center">
 <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/UHJvZ3JhbW1pbmcgTGFuZ3VhZ2Vz/enougha.png" alt="Sans Serif fonts"><br/>
  <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
@@ -58,7 +58,7 @@
 
 <br/><br/>
 <!-- Libraries and Frameworks -->
-
+&nbsp;
 <div id="badges"  align="center">
 <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/TGlicmFyaWVzIGFuZCBGcmFtZXdvcmtz/enougha.png" alt="Sans Serif fonts"><br/>
   <img src="https://img.icons8.com/nolan/64/react-native.png"/>
@@ -72,6 +72,7 @@
 
 <br/><br/>
 <!-- Tools and Platforms  -->
+&nbsp;
 <div id="badges"  align="center">
  <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/VG9vbHMgYW5kIFBMYXRmb3Jtcw/enougha.png" alt="Sans Serif fonts"><br/>
  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -85,7 +86,7 @@
  
 <!-- Currently Learning  -->
  <br/><br/>
-
+&nbsp;
 <div id="badges"  align="center">
  <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/TGVhcm5pbmc/enougha.png" alt="Sans Serif fonts"><br/>
  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
@@ -97,7 +98,7 @@
 
 <!-- Interest  -->
  <br/><br/>
-
+&nbsp;
 <div id="badges"  align="center">
 <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/SW50ZXJlc3Rz/enougha.png" alt="Sans Serif fonts"><br/>
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
