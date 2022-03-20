@@ -12,7 +12,7 @@
   <a href="https://twitter.com/AyeshaNoorKhan3">
 <img src="https://img.icons8.com/nolan/64/twitter-squared.png"/>
   </a>
-   <a href="https://twitter.com/AyeshaNoorKhan3">
+   <a href="mailto:ayeshanoorank19@gmail.com">
   <img src="https://img.icons8.com/nolan/64/gmail.png"/>
   </a>
 </div>
