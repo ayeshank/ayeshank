@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
-<a href="http://portfolioank.surge.sh"> 
+<a href="http://portfolioank.surge.sh" target="_blank"> 
  
 <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry-1.png"
  width="100" height="100"/>
@@ -9,7 +9,7 @@
  <br/>
  
  
- <a href="https://www.fontspace.com/category/3d">
+ <a href="http://portfolioank.surge.sh">
 <img src="https://see.fontimg.com/api/renderfont4/L35oy/eyJyIjoiZnMiLCJoIjoyMywidyI6MTUwMCwiZnMiOjE1LCJmZ2MiOiIjNENCOUQ0IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/U2VlIG15IHBvcnRmb2xpbw/glossy-sheen-regular.png" alt="3D fonts"></a> 
  
  </a>
