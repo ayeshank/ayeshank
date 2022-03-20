@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <div id="header" align="center">
 <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry-1.png"
-     width="100" height="200"/>
+     width="100" height="100"/>
 </div>
 <div id="badges"  align="center">
   <a href="www.linkedin.com/in/ayeshanoorkhan">
