@@ -41,9 +41,13 @@
 <!-- Languages Working On -->
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGFuZ3VhZ2VzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
 <div id="badges"  align="center">
- <img src="https://img.icons8.com/color/96/000000/html-5--v2.png"/>
- <img src="https://img.icons8.com/color/96/000000/css3.png"/>
-    <img src="https://img.icons8.com/nolan/64/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+ <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+ <img src="https://img.icons8.com/nolan/64/react-native.png"/>
 </div>
 
 <!--
