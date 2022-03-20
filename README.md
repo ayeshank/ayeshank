@@ -39,6 +39,7 @@
 </div>
 
 <!-- Languages Working On -->
+<br/><br/>
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGFuZ3VhZ2VzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
 <div id="badges"  align="center">
  <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
@@ -49,7 +50,7 @@
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </div>
 
-<br/>
+<br/><br/>
 <!-- Libraries and Frameworks -->
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGlicmFyaWVzIGFuZCBGcmFtZXdvcmtzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
 <div id="badges"  align="center">
@@ -62,7 +63,7 @@
 </div>
 
 
-<br/>
+<br/><br/>
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/VG9vbHMgYW5kIFBsYXRmb3JtcyBXb3JraW5nIE9uOg/esquadro.png" alt="Cool fonts">
 <div id="badges"  align="center">
  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
