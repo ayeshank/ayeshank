@@ -8,13 +8,11 @@
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRUU4MjQ3IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/LS0-IFJlYWN0IEpTIERldmVsb3Blcg/esquadro.png" alt="Cool fonts"><br/>
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRUU4MjQ3IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/LS0-IE1FUk4gU1RhY2sgRGV2ZWxvcGVy/esquadro.png" alt="Cool fonts">
 </div>
-<br/>
+<br/><br/>
 <div id="header" align="center">
 <a href="http://portfolioank.surge.sh" target="_blank"> 
- 
 <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-developer-coding-kiranshastry-gradient-kiranshastry-1.png"
  width="100" height="100"/>
-  
  <a href="http://portfolioank.surge.sh" target="_blank"><img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjNUJDRkMzIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/VmlldyBNeSBQb3J0Zm9saW8/esquadro.png" alt="Cool fonts"></a>
  </a>
  
