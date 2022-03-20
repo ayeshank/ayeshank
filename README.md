@@ -1,8 +1,7 @@
 <!-- ### Hi there 👋 -->
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/R3JlZXRpbmdzIQ/esquadro.png" alt="Cool fonts">
-<div id="header" align="center">
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SSBhbSBBWUVTSEEgTk9PUiBLSEFO/esquadro.png" alt="Cool fonts">
- <p></p>
+<div id="header" align="center">
 
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SSBhbSBhIDo/esquadro.png" alt="Cool fonts"><br/>
  
