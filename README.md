@@ -6,7 +6,6 @@
  width="100" height="100"/>
   
  <a href="http://portfolioank.surge.sh" target="_blank"><img src="https://see.fontimg.com/api/renderfont4/PKMo7/eyJyIjoiZnMiLCJoIjozOCwidyI6MTUwMCwiZnMiOjI1LCJmZ2MiOiIjNENCOUQ0IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/U2VlIG15IHBvcnRmb2xpbw/new-alenia-black.png" alt="Cool fonts"></a>
-
  </a>
  
 </div>
