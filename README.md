@@ -3,7 +3,7 @@
 <div id="header" align="center">
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SSBhbSBBWUVTSEEgTk9PUiBLSEFO/esquadro.png" alt="Cool fonts">
  <p></p>
-<img align="left" src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SSBhbSBhIDo/esquadro.png" alt="Cool fonts"><br/>
+<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SSBhbSBhIDo/esquadro.png" alt="Cool fonts"><br/>
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRUU4MjQ3IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/LS0-IFNvZnR3YXJlIEVuZ2luZWVy/esquadro.png" alt="Cool fonts"><br/>
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRUU4MjQ3IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/LS0-IFJlYWN0IEpTIERldmVsb3Blcg/esquadro.png" alt="Cool fonts"><br/>
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRUU4MjQ3IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/LS0-IE1FUk4gU1RhY2sgRGV2ZWxvcGVy/esquadro.png" alt="Cool fonts">
@@ -22,6 +22,7 @@
 
 
 <br/><br/>
+<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/R2V0IENvbm5lY3RlZCBXaXRoIG1lIEJ5Og/esquadro.png" alt="Cool fonts">
 <div id="badges"  align="center">
   <a href="www.linkedin.com/in/ayeshanoorkhan">
     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
