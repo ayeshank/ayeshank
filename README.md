@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges"  align="center">
   <a href="www.linkedin.com/in/ayeshanoorkhan">
     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
   </a>
@@ -11,6 +11,9 @@
   </a>
   <a href="https://twitter.com/AyeshaNoorKhan3">
 <img src="https://img.icons8.com/nolan/64/twitter-squared.png"/>
+  </a>
+   <a href="https://twitter.com/AyeshaNoorKhan3">
+  <img src="https://img.icons8.com/nolan/64/gmail.png"/>
   </a>
 </div>
 
