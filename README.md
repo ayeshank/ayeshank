@@ -24,7 +24,7 @@
 <!-- Connect WIth me -->
 
 <div id="badges"  align="center">
- <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/R2V0IENvbm5lY3RlZCBXaXRoIG1lIEJ5Og/esquadro.png" alt="Cool fonts">
+<img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/R2V0IENvbm5lY3RlZA/enougha.png" alt="Sans Serif fonts"><br/>
   <a href="www.linkedin.com/in/ayeshanoorkhan">
     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
   </a>
@@ -43,7 +43,7 @@
 <br/><br/>
 
 <div id="badges"  align="center">
- <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGFuZ3VhZ2VzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
+<img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/UHJvZ3JhbW1pbmcgTGFuZ3VhZ2Vz/enougha.png" alt="Sans Serif fonts"><br/>
  <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -56,7 +56,7 @@
 <!-- Libraries and Frameworks -->
 
 <div id="badges"  align="center">
- <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGlicmFyaWVzIGFuZCBGcmFtZXdvcmtzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
+<img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/TGlicmFyaWVzIGFuZCBGcmFtZXdvcmtz/enougha.png" alt="Sans Serif fonts"><br/>
   <img src="https://img.icons8.com/nolan/64/react-native.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
  <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
@@ -67,9 +67,9 @@
 
 
 <br/><br/>
-
+<!-- Tools and Platforms  -->
 <div id="badges"  align="center">
- <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/VG9vbHMgYW5kIFBsYXRmb3JtcyBXb3JraW5nIE9uOg/esquadro.png" alt="Cool fonts">
+ <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/VG9vbHMgYW5kIFBMYXRmb3Jtcw/enougha.png" alt="Sans Serif fonts"><br/>
  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
@@ -83,7 +83,7 @@
  <br/><br/>
 
 <div id="badges"  align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/Q3VycmVudGx5IExlYXJuaW5nOg/esquadro.png" alt="Cool fonts">
+ <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/TGVhcm5pbmc/enougha.png" alt="Sans Serif fonts"><br/>
  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
@@ -95,7 +95,7 @@
  <br/><br/>
 
 <div id="badges"  align="center">
-<img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/SW50ZXJlc3Rz/enougha.png" alt="Sans Serif fonts">
+<img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/SW50ZXJlc3Rz/enougha.png" alt="Sans Serif fonts"><br/>
  <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
  <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 </div>
