@@ -49,7 +49,7 @@
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </div>
 
-
+<br/>
 <!-- Libraries and Frameworks -->
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/TGlicmFyaWVzIGFuZCBGcmFtZXdvcmtzIFdvcmtpbmcgT246/esquadro.png" alt="Cool fonts">
 <div id="badges"  align="center">
@@ -60,6 +60,19 @@
  <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
+
+
+<br/>
+<img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRjE5QUY4IiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/VG9vbHMgYW5kIFBsYXRmb3JtcyBXb3JraW5nIE9uOg/esquadro.png" alt="Cool fonts">
+<div id="badges"  align="center">
+ <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+ <img src="https://img.icons8.com/fluency/48/000000/microsoft-dynamics-365.png"/>
+ <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+ </div>
 <!--
 **ayeshank/ayeshank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
