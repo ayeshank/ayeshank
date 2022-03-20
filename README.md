@@ -28,7 +28,7 @@
 
 <div id="badges"  align="center">
 <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/R2V0IENvbm5lY3RlZA/enougha.png" alt="Sans Serif fonts"><br/>
-  <a href="www.linkedin.com/in/ayeshanoorkhan">
+  <a href="https://linkedin.com/in/ayeshanoorkhan">
     <img src="https://img.icons8.com/nolan/64/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100029807748989">
