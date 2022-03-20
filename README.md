@@ -22,7 +22,7 @@
 <a href="http://portfolioank.surge.sh" target="_blank"><img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/VmlldyBteSBQb3J0Zm9saW8/enougha.png" alt="Sans Serif fonts"></a>
  </a>
 </div>
-
+<hr>
 <br/><br/>
 &nbsp;
 <!-- Connect WIth me -->
@@ -42,7 +42,7 @@
   <img src="https://img.icons8.com/nolan/64/gmail.png"/>
   </a>
 </div>
-
+<hr>
 <!-- Languages Working On -->
 <br/><br/>
 &nbsp;
@@ -55,7 +55,7 @@
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </div>
-
+<hr>
 <br/><br/>
 <!-- Libraries and Frameworks -->
 &nbsp;
@@ -68,7 +68,7 @@
  <img src="https://img.icons8.com/color/48/000000/material-ui.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </div>
-
+<hr>
 
 <br/><br/>
 <!-- Tools and Platforms  -->
@@ -83,7 +83,7 @@
  <img src="https://img.icons8.com/fluency/48/000000/microsoft-dynamics-365.png"/>
  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
  </div>
- 
+ <hr>
 <!-- Currently Learning  -->
  <br/><br/>
 &nbsp;
@@ -95,7 +95,7 @@
  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
 </div>
-
+<hr>
 <!-- Interest  -->
  <br/><br/>
 &nbsp;
