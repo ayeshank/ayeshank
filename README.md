@@ -4,7 +4,7 @@
  <div></div>
 <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SSBhbSBBWUVTSEEgTk9PUiBLSEFO/esquadro.png" alt="Cool fonts">
  </div>
-<div id="header" align="center">
+<div id="header" align="left">
 
 <!-- <img src="https://see.fontimg.com/api/renderfont4/K7RaD/eyJyIjoiZnMiLCJoIjoxNSwidyI6MTUwMCwiZnMiOjEwLCJmZ2MiOiIjRkE5M0RGIiwiYmdjIjoiI0YzRURFRCIsInQiOjF9/SSBhbSBhIDo/esquadro.png" alt="Cool fonts"><br/> -->
  
