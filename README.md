@@ -51,6 +51,7 @@
  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
  <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 </div>
 <hr>
@@ -84,7 +85,6 @@
 &nbsp;
 <div id="badges"  align="center">
  <img src="https://see.fontimg.com/api/renderfont4/w1md3/eyJyIjoiZnMiLCJoIjoxMiwidyI6MTUwMCwiZnMiOjgsImZnYyI6IiM2NEVBRDMiLCJiZ2MiOiIjRjNFREVEIiwidCI6MX0/TGVhcm5pbmc/enougha.png" alt="Sans Serif fonts"><br/>
- <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
